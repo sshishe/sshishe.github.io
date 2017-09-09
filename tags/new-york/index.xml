@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New York on Shahriar Rostami</title>
+    <link>http://www.shahriar.org/tags/new-york/</link>
+    <description>Recent content in New York on Shahriar Rostami</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 04 Sep 2017 18:39:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.shahriar.org/tags/new-york/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[Photo] Fire escape ladder!</title>
+      <link>http://www.shahriar.org/posts/fire_scape_ladder/</link>
+      <pubDate>Mon, 04 Sep 2017 18:39:00 -0400</pubDate>
+      
+      <guid>http://www.shahriar.org/posts/fire_scape_ladder/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

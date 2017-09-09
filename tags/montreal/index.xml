@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photo on Shahriar Rostami</title>
-    <link>http://www.shahriar.org/tags/photo/</link>
-    <description>Recent content in Photo on Shahriar Rostami</description>
+    <title>Montreal on Shahriar Rostami</title>
+    <link>http://www.shahriar.org/tags/montreal/</link>
+    <description>Recent content in Montreal on Shahriar Rostami</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 08 Sep 2017 22:18:49 -0400</lastBuildDate>
     
-	<atom:link href="http://www.shahriar.org/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.shahriar.org/tags/montreal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,15 +16,6 @@
       <pubDate>Fri, 08 Sep 2017 22:18:49 -0400</pubDate>
       
       <guid>http://www.shahriar.org/posts/biosph%C3%A8re-mtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Photo] Fire escape ladder!</title>
-      <link>http://www.shahriar.org/posts/fire-scape-ladder/</link>
-      <pubDate>Mon, 04 Sep 2017 18:39:00 -0400</pubDate>
-      
-      <guid>http://www.shahriar.org/posts/fire-scape-ladder/</guid>
       <description></description>
     </item>
     

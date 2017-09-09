@@ -3,12 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.shahriar.org/posts/biosph%C3%A8re-mtl/</loc>
+    <lastmod>2017-09-08T22:18:49-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.shahriar.org/posts/fire-scape-ladder/</loc>
     <lastmod>2017-09-04T18:39:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.shahriar.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.shahriar.org/tags/mtl/</loc>
+    <lastmod>2017-09-08T22:18:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.shahriar.org/tags/montreal/</loc>
+    <lastmod>2017-09-08T22:18:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,25 +43,25 @@
   
   <url>
     <loc>http://www.shahriar.org/tags/photo/</loc>
-    <lastmod>2017-09-04T18:39:00-04:00</lastmod>
+    <lastmod>2017-09-08T22:18:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.shahriar.org/posts/</loc>
-    <lastmod>2017-09-04T18:39:00-04:00</lastmod>
+    <lastmod>2017-09-08T22:18:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.shahriar.org/</loc>
-    <lastmod>2017-09-04T18:39:00-04:00</lastmod>
+    <lastmod>2017-09-08T22:18:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.shahriar.org/tags/</loc>
-    <lastmod>2017-09-04T18:39:00-04:00</lastmod>
+    <lastmod>2017-09-08T22:18:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
